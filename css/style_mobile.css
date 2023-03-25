@@ -1,0 +1,29 @@
+@media (max-width: 1100px) {
+    .main-box {
+        height: 21.4375rem;
+        width: 19.6875rem;
+        margin-top: 7.5rem;
+    }
+    
+    .tip-number {
+        color: var(--green-color);
+        font-size: 0.6875rem;
+        line-height: 0.9375rem;
+        letter-spacing: 0.2161rem;
+        margin-top: 2.5rem;
+    }
+    
+    .advice {
+        width: 18.4375rem;
+        height: 8.25rem;
+        font-size: 1.5rem;
+        line-height: 2.0488rem;
+        letter-spacing: -0.0163rem;
+    }
+
+    .delimiter {
+        width: 270px;
+    }
+    
+ 
+}
