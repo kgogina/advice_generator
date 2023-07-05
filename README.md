@@ -1,5 +1,4 @@
-# advice_generator
-Advice generator 
+# Advice generator 
 
 This project is a simple web application that generates random advice messages when a button is clicked. It uses HTML, CSS, and JavaScript to display the advice on the screen.
 
