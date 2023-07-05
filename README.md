@@ -2,6 +2,9 @@
 
 This project is a simple web application that generates random advice messages when a button is clicked. It uses HTML, CSS, and JavaScript to display the advice on the screen.
 
+## Preview
+![Solution](project_ss.png)
+
 ## Usage
 
 To use the Advice Generator, follow these steps:
@@ -11,7 +14,7 @@ To use the Advice Generator, follow these steps:
 3. Click the "Generate Advice" button to fetch and display a random advice message.
 4. Click the button again to generate a new advice message.
 
-Alternatively, you can also access a live demo of the Advice Generator by visiting the GitHub Pages link for the project. This allows you to use the application directly in your web browser without the need to clone or download the repository.
+Alternatively, you can also access a live demo of the Advice Generator by visiting the GitHub Pages [link for the project](https://kgogina.github.io/advice_generator/). This allows you to use the application directly in your web browser without the need to clone or download the repository.
 
 ## HTML Structure
 
