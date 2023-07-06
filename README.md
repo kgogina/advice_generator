@@ -45,3 +45,8 @@ The CSS styles for the project are defined in the `style.css` and `style_mobile.
 - Responsive design using media queries for smaller screens.
 
 Please note that this project uses external resources such as images and API endpoints. Make sure you have an internet connection to access these resources properly.
+
+## Acknowledgements
+Special thanks to Frontend Mentor for providing the task/project that served as the basis for this code.
+The project was created for learning purposes and does not represent a real company or offer real services. 
+
